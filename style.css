@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#canvas {
+}
+
+.logo {
+  position: absolute;
+  top: 80vh;
+  left: 90vw;
+  height: 80px;
+  width: auto;
+}
